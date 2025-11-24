@@ -30,6 +30,7 @@ public class WorldPanel extends JPanel {
 	 * The size of the world in pixels.
 	 */
 	public static final int WORLD_SIZE = 550;
+	int tusk = 500;
 	
 	/**
 	 * The font used for the large text.
